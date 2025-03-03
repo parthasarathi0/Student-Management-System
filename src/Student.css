@@ -1,0 +1,27 @@
+h2{
+    margin-left: 680px;
+}
+h5{
+    margin-left: 570px;
+}
+.studentlist{
+    background-color: rgb(197, 162, 162);
+    height: 180px;
+    width: 790px;
+    margin-left: 373px;
+    margin-top: 20px;
+    /* padding: 1px; */
+}
+
+#button{
+    margin-top: -40px;
+    margin-left: 300px;
+}
+
+#divli{
+    height: 20px;
+    margin: 18px;
+    margin-left: 190px;
+    padding: 5px;
+}
+

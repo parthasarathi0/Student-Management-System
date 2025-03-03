@@ -1,0 +1,27 @@
+h1{
+    margin-top: -500px;
+    margin-left: 220px;
+}
+p{
+    margin-left: 30px;
+    text-align: center;
+}
+h6{
+    margin-left: 620px;
+}
+
+#one{
+    margin-left: 550px;
+}
+#two{
+    margin-left: 580px;
+}
+#three{
+    margin-left: 610px;
+}
+#four{
+    margin-left: 640px;
+}
+span{
+    font-weight: bold;
+}
